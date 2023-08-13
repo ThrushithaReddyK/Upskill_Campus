@@ -6,4 +6,5 @@ The model focuses on predicting the crop yield in advance by analyzing factors l
 project prepared by
 
 M.Vishnu Sai
+
 K.Thrushitha Reddy
